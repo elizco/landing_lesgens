@@ -1,0 +1,62 @@
+body {
+	background: rgb(245,245,245);
+  color: rgb(64, 121, 140);
+  font-size: 18px;
+  font-family: 'Karma', serif;
+  line-height: 18px;
+}
+h1{
+  font-family: 'Bowlby One SC', cursive;
+  color: #70A9A1;
+  font-weight: regular;
+  font-size: 60px;
+}
+h2 {
+  font-family: Karma;
+  color: pink;
+  font-weight: lighter;
+  font-size:24px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+.superh1 {
+	font-family: 'Bowlby One SC', cursive;
+  color: #70A9A1;
+  font-weight: regular;
+  font-size: 120px;
+}
+
+.footer {
+	font-family: 'Crimson Text', serif;
+	font-weight: regular 400 italic;
+	font-size: 12px;
+}
+
+.titraille {
+	text-align: center;
+	box-sizing: border-box;
+	border-style: solid;
+    background-color: white;
+    height : 100vh;
+
+    /* Flexbox */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#gens {
+color: #372554;
+font-size: 22px;
+font-weight: bolder;
+}
+
+#baseline {
+	text-align: center;
+}
